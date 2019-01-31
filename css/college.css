@@ -1,0 +1,261 @@
+body {
+  font-family: 'Tangerine', serif !important;
+	color: #000;
+  padding: 0;
+  margin:0;
+}
+
+div.nav-wrapper.color {
+    background-color: #858195;
+}    
+
+h1.title {
+    margin: auto;
+}
+h2 {
+  margin-top: 0;
+}
+div.center {
+    margin: auto;
+}
+
+/*college de fotos*/
+html {
+  font-family: sans-serif;
+}
+
+label.files{
+  background-color:#ee6e73e8;
+  padding: 15px 10px;
+   border-radius: 5px; 
+  /* border: 1px ridge black; */
+  font-size: 1rem ;
+  font-family: arial;
+  height: auto;
+  color: #FFF;
+}
+
+label:hover, form button:hover {
+  border: 2px solid #EE98EC;
+  border-radius: 5px;
+  background-color: transparent;
+  color: #EE98EC;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+label:active, form button:active {
+  background-color: #0D3F8F;
+  color: white;
+}
+span.textol {
+    margin-left: 0.8rem;
+}
+
+img.imgfb {
+    margin-top: 0.35rem;
+    width: 100%;
+    height: 20vh;
+}
+.input-files{
+  visibility: hidden;
+}
+
+.areaCollege {
+    height: 300px;
+    border: 2px solid #26a69a;
+    border-radius: 5px;
+}
+
+.collge-one{
+ height: 150px;
+ border: 2px solid #b1dcfb;
+}
+div.collge-one img {
+  margin-top: 0.4rem;
+}
+
+div.galeryfb {
+  outline: 0.9px solid #EE98EC;
+  width: 33,33%;
+  height: 22vh;
+  padding: 0;
+}
+
+/*body {
+	font-family: 'Raleway', sans-serif !important;
+	color: #000;
+  padding: 0;
+  margin:0;
+}
+
+ul li {
+    display: inline-block;
+}
+img.img-logo {
+  width: 20%;
+  margin-bottom: -7px;
+  margin-left: 5%;
+}
+div.nav-wrapper.color {
+    background-color: #858195;
+}    
+
+.letter{
+	color: #000;
+}
+
+a.btn-final{
+  background: #9F9DAB;
+  padding: 1.5rem;
+  color:#FFF;
+  font-size: 20px;
+}
+h1.title {
+    margin: auto;
+}
+div.center {
+    margin: auto;
+}*/
+
+/*estilo div mouseover*/
+/*.divmouse{
+position:absolute;
+margin-left: 0.9%;
+margin-bottom: 0.9%;
+text-align: center;
+width:160px;
+height:95px;
+background:#D2BCFF;
+overflow: hidden;
+z-index:10000;
+}
+.hidden{
+display:none;
+}
+
+#map {
+    width: 300px;
+    height: 200px;
+}
+.reserve {
+    margin-bottom: 0.5rem;
+}
+img#img-dish {
+    border-radius: 50%;
+}*/
+/*styles de */
+/*div.line {
+  border-bottom: 1.5px solid #e6ecf0;
+}
+
+span.align-left {
+    position: absolute;
+    margin-top: 2rem;
+    margin-left: 1.5rem;
+    font-weight: 700;
+}
+span.follow {
+    display: flex;
+    float: right;
+    margin-top: 1.5rem;
+    margin-right: 1.5rem;
+}
+
+button.btn-flat,button.btn-pad{
+  padding: 0;
+  text-transform: lowercase;
+  font-weight: 700;
+}
+.row .col.s6.barra{
+  border-right: 1px solid #808080ba;
+}
+div#friendcl {*/
+    /* margin: auto; */
+ /* .text-align: center;
+}
+button.hidden{
+  border-radius: 10%;
+  font-weight: 700;
+  overflow: hidden;
+}
+/*college de fotos*/
+/*html {
+  font-family: sans-serif;
+}*/
+
+/*label.files{
+  background-color:#ee6e73e8;
+  padding: 15px 10px;
+  /* border-radius: 5px; */
+  /* border: 1px ridge black; */
+ /* font-size: 1rem;
+  height: auto;
+  color: #FFF;
+}*/
+
+/*label:hover, form button:hover {
+  background-color: #2D5BA3;
+  color: white;
+}
+
+label:active, form button:active {
+  background-color: #0D3F8F;
+  color: white;
+}
+span.textol {
+    margin-left: 0.8rem;
+}
+
+div.preview {
+box-sizing: content-box;
+}
+div.pics {
+  position: relative;
+  padding-bottom:0.5rem;
+  overflow: hidden;
+}
+ol li div.pics iframe.imgframe #document html body img{
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+
+img.imgfb {
+    width: 100%;
+    height: 20vh;
+}
+.input-files{
+  visibility: hidden;
+}
+
+.areaCollege {
+    height: 300px;
+    border: 1px solid #26a69a;
+}
+
+.collge-one{
+ height: 150px;
+ border: 1px solid #b1dcfb;
+}
+p.text-galeria {
+  color: #0089ec;
+  font-weight: 700;
+  font-size: 2rem;
+  position: absolute;
+  margin-bottom: 1rem;
+  margin-left: 1rem;
+  text-align: center;
+
+}*/
+
+
+
+/*imagenes*/
+/*.big-photo{
+  cursor: pointer;
+}*/
+
+
+
+
